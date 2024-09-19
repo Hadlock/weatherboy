@@ -3,6 +3,6 @@
 
 Time and Temp desktop program for Anbernic retro game handheld
 
-M1 to cycle through
-M2 to quit
-M3 to start/pause pomodoro timer
+- M1 to cycle through
+- M2 to quit
+- M3 to start/pause pomodoro timer
